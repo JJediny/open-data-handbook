@@ -26,7 +26,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 
 
 
-
+ 
 ####General Questions
 * **What data (including historical data) does the agency collect, maintain, or hold?** Conducting a preliminary survey of data can be an excellent first step towards identifying publishable state data.
 * **What “high value” data are currently publicly available?** Agencies already publish a considerable amount of data online, but it may not necessarily be accessible in bulk, or available through machine-readable mechanisms. Reviewing weekly, monthly, or quarterly reports which are frequently accessed by the public, or public-facing applications, which allow visitors to search for records, are excellent starting points.
