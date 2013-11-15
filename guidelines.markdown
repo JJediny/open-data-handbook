@@ -43,7 +43,7 @@ In identifying datasets, government entities may be concerned that users of data
 
 There are no hard and fast rules about what level of detail is sufficiently granular to add value to a government dataset.  Whenever possible, government entities should resist the temptation to limit datasets to only those the agency believes might be understood or useful.  Entities should be wary of underestimating the users of data.ny.gov.  data.ny.gov users may come from a variety of fields and specialties, including academic and other government users who can envision a use for the raw data not anticipated by the originating entity.  A better practice is for the agency to ensure its metadata describing the dataset is complete, including comprehensive overview documents describing the data, data collection, data fields, and presentation of research questions to maximize the utility and usefulness of the data.
 
-####Release Prioritization 
+###Release Prioritization 
 Executive Order 95 states: *“Prioritization of publication of data based on the extent to which the data can be used to increase the covered State entity’s accountability and responsiveness, improve public knowledge of the entity and its operations, further the mission of the entity, create economic opportunity, or respond to a need or demand identified after public consultation...”*
 
 Executive Order 95 further states: *“Data shall not be Publishable State Data if making such data available on the Open Data Website [data.ny.gov] would…impose an undue financial, operational or administrative burden on the covered State entity or State.”*
