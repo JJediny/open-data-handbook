@@ -16,7 +16,7 @@ Covered State entities (and entities not covered by Executive Order 95) vary wid
 ![Guidance Summary](http://nys-its.github.io/open-data-handbook/img/GuideanceSummary.png "Guidance Summary")
 
  
-####Data Set Identification
+###Data Set Identification
 In creating a data catalogue, agencies should identify those datasets that are high value, high quality, complete, and in accordance with the definition of "Publishable State Data" within Executive Order 95. “High value” data, as defined within Executive Order 95, is that which can be used to increase the agency’s accountability and responsiveness, improve public knowledge of the agency and its operations, further the mission of the agency, create economic opportunity, or respond to a need or demand identified after public consultation.  
 
 The questions in Figure 2, and below, are neither exhaustive nor may be applicable to all agencies, but serve to provide a framework to identify potential data for publication on data.ny.gov.  For each question, agencies must assess whether the data falls within the definition of “Publishable State Data” and the disclosure considerations that follow.
@@ -29,7 +29,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 
 
 
-####General Questions
+###General Questions
 * **What data (including historical data) does the agency collect, maintain, or hold?** Conducting a preliminary survey of data can be an excellent first step towards identifying publishable state data.
 * **What “high value” data are currently publicly available?** Agencies already publish a considerable amount of data online, but it may not necessarily be accessible in bulk, or available through machine-readable mechanisms. Reviewing weekly, monthly, or quarterly reports which are frequently accessed by the public, or public-facing applications, which allow visitors to search for records, are excellent starting points.
 * **What underlying data populates aggregate information in published reports?** Published reports are often populated with data which is compiled or aggregated from internal systems. For example, a weekly public report may indicate that an agency has closed 25 projects in that week. The internal system, which has details of each case, may have additional details which can be made public.
@@ -38,7 +38,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 * **What data is the subject of frequent FOIL requests?  What data is the public requesting?** There are multiple methods by which the public requests data from agencies. For example, some Freedom of Information Law (FOIL) requests may seek to obtain datasets or records which are to be provided back to the requestor in digital format. These requests (particularly repeated requests for the same dataset) might be fulfilled by making the dataset(s) available on data.ny.gov.
 * **What data have not been previously published but meet the definition of “high value”?** Publishable state data that can be used to increase the covered State entity’s accountability and responsiveness, improve public knowledge of the entity and its operations, further the mission of the entity, create economic opportunity, or respond to a need or demand identified after public consultation.
 
-####Do the datasets represent discrete, usable information 
+###Do the datasets represent discrete, usable information 
 In identifying datasets, government entities may be concerned that users of data.ny.gov will not understand their raw data or, if distilled to its rawest form, might lose utility.  For example, state and local rules might differ, such that publishing raw, separate datasets of the two may reduce the value of the raw data being combined into a single dataset.
 
 There are no hard and fast rules about what level of detail is sufficiently granular to add value to a government dataset.  Whenever possible, government entities should resist the temptation to limit datasets to only those the agency believes might be understood or useful.  Entities should be wary of underestimating the users of data.ny.gov.  data.ny.gov users may come from a variety of fields and specialties, including academic and other government users who can envision a use for the raw data not anticipated by the originating entity.  A better practice is for the agency to ensure its metadata describing the dataset is complete, including comprehensive overview documents describing the data, data collection, data fields, and presentation of research questions to maximize the utility and usefulness of the data.
@@ -81,7 +81,7 @@ Below are suggested questions, the answers to which can assist agencies in prior
 21.	**Is the data in strong demand from constituencies?**  The data might be of higher value to specific, narrow interest groups which may be the agency's core constituency for those issues.
 22.	**Is the data of timely interest?** Announcements of progress or success – or reactions to public criticism - can be strongly supported by publishing related data, should it exist.     
 
-####Disclosure Considerations
+###Disclosure Considerations
 As agencies classify data sets and catalogue Publishable State Data, they should be mindful of legal and policy restrictions on publication of certain kinds of data.  The following guidelines regarding disclosure provide additional factors for consideration as agencies begin to identify and review datasets. 
 
 1.	**Security, Privacy, Regulatory, & Aggregate Data.** 
@@ -105,7 +105,7 @@ Under the NYS Public Officers Law, Article 6 (the NYS Freedom of Information Law
 4.	**Ownership Rights**
 In some circumstances, an agency may not possess all the necessary rights to be able to publish a specific data set. For example, if the data was collected or compiled by a third party, there may be a contractual or intellectual property limitation which prevents it from being made public. In these cases, the appropriate permission must be secured from the sourcing entity, and additional disclaimers may be required.   
 
-####Narrative Content
+###Narrative Content
 Narrative content on its own is not appropriate for publishing on data.ny.gov. However, such content may have been developed based upon existing agency data which has already, or will be, published. 
 
 If an agency develops extensive narrative reports about published data, then those reports should be published on the agency's website, while providing a link to the published data set on data.ny.gov. It is important to keep this link current.
