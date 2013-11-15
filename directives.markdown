@@ -3,7 +3,7 @@ layout: default
 previous: index.html
 next: guidelines.html
 ---
-
+ 
 Directives for Participating Agencies
 =========
 The following directives are based upon Executive Order 95.

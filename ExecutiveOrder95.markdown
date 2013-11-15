@@ -17,7 +17,7 @@ EXECUTIVE ORDER 95
 **WHEREAS**, the State can use these powerful tools to enhance public access to government data and make government in New York State more transparent in order to promote public trust; and
  
 **WHEREAS**, ensuring the quality and consistency of such data is essential to maintaining its value and utility; 
- 
+  
 **NOW, THEREFORE**, I, Andrew M. Cuomo, Governor of the State of New York, by virtue of the authority vested in me by the Constitution and laws of the State of New York, do hereby order as follows:
  
 A. Online Website.  An online Open Data Website for the collection and public dissemination of Publishable State data, and, to the extent feasible, reports is hereby established. The Open Data Website shall be maintained at data.ny.gov or such other successor website maintained by, or on behalf of, the State, as deemed appropriate by the New York State Office of Information Technology Services in consultation with the Governor's Office and Data Working Group established below.  The Open Data Website will provide "single-stop" access to Publishable State data that is owned, controlled, collected or otherwise maintained by covered State entities as defined herein and, to the extent feasible, reports of such covered State entities.  
