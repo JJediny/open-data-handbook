@@ -23,6 +23,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 
 
 **Figure 2: Identifying Publishable Data Sets**
+
 ![Identifying Publishable Data Sets](http://nys-its.github.io/open-data-handbook/img/PublishableDataSets.png "Publishable Data Sets")
 
 
@@ -52,6 +53,7 @@ When creating a schedule for publication of a particular dataset, agencies must 
 In prioritizing data for release, therefore, agencies must account for time to: identify data, assess the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, review and obtain all necessary approvals to publish the data, and prepare data, metadata and requisite accompanying documentation for publication (Figure 3). 
 
  **Figure 3: Prioritization**
+ 
 ![Prioritization](http://nys-its.github.io/open-data-handbook/img/Prioritization.png "Prioritization")
 
 Below are suggested questions, the answers to which can assist agencies in prioritizing publication of high value “publishable state data” consistent with Executive Order 95:
