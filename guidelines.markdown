@@ -13,7 +13,7 @@ Covered State entities (and entities not covered by Executive Order 95) vary wid
 
 **Figure 1: Guidance Summary**
 
-![Guidance Summary](http://nys-its.github.io/open-data-handbook/img/GuideanceSummary.png "Guidance Summary")
+![Guidance Summary](img/GuideanceSummary.png "Guidance Summary")
 
  
 ###Data Set Identification
@@ -24,7 +24,7 @@ The questions in Figure 2, and below, are neither exhaustive nor may be applicab
 
 **Figure 2: Identifying Publishable Data Sets**
 
-![Identifying Publishable Data Sets](http://nys-its.github.io/open-data-handbook/img/PublishableDataSets.png "Publishable Data Sets")
+![Identifying Publishable Data Sets](img/PublishableDataSets.png "Publishable Data Sets")
 
 
 
@@ -54,7 +54,7 @@ In prioritizing data for release, therefore, agencies must account for time to: 
 
  **Figure 3: Prioritization**
  
-![Prioritization](http://nys-its.github.io/open-data-handbook/img/Prioritization.png "Prioritization")
+![Prioritization](img/Prioritization.png "Prioritization")
 
 Below are suggested questions, the answers to which can assist agencies in prioritizing publication of high value “publishable state data” consistent with Executive Order 95:
 
